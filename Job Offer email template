@@ -1,0 +1,64 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><font color="#000000">Hi,</font></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><font color="#000000">&nbsp;</font></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><font color="#000000">I hope you are having a great day. We are assisting our client for their</font>&nbsp;&quot;Director&quot;&nbsp;<font color="#000000">contracting need in St Louis, MO</font>&nbsp;<font color="#000000">.</font></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><font color="#000000">&nbsp;</font></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><font color="#000000">Please&nbsp;<strong><a href="{{.URL}}" style="color: rgb(23, 109, 229);">click here</a></strong>&nbsp;for job details and to apply.</font></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;">&nbsp;</p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><font color="#000000">Regards,</font></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><span style="color: rgb(0, 0, 0);">Eric Rachon</span></span></span></p>
+
+<p style="font-size: 12px; margin-bottom: 0px; margin-top: 0px; color: rgb(34, 34, 34); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 18px;"><span style="font-size:14px;"><span style="font-family:calibri,verdana,geneva,sans-serif;"><span style="color: rgb(0, 0, 0);">Matrix Staffing, Inc.</span></span></span></p>
+
+<div align="center" id="removeLink" style="padding:3px" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="70%">
+	<tbody>
+		<tr>
+			<td style="float:left; margin:8px 0px 0px 0px; text-align:left; font-family:Verdana, Geneva, sans-serif; font-size:11px;color:#000000;"><a class="font10" href="{{.URL}}" target="new"><span style="font-family: 'verdana','serif'; font-size: 9.5pt">Change/Remove Subscription</span></a></td>
+			<td style="float:right; margin:5px 0px 0px 0px; text-align:right;font-family:Verdana, Geneva, sans-serif; font-size:11px;color:#000000;"><a href="{{.URL}}" target="_new">Powered by Zooba</a>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="padding:20px 0px 0px 0px; text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:11px;color:#000000;"><br />
+<span class="font10">Matrix Staffing, 10235 W Little York Rd, Suite 435, St Louis, Missouri&nbsp;63042&nbsp;Phone: 1-866-MATRIXS&nbsp;Fax: 314-368-2614 </span></div>
+<img height="1" src="http://portal.netmatrixsolutions.com/servlet/ZoniacServlet?api=putOpenEmailTracking&amp;m9UCc1ucRi=7&amp;sJ5eO4n3Bd=9773&amp;h2ZNp64yM8=Epohl2121%40yahoo.com&amp;r2Vs8EkN1=3&amp;o=39866aa8cd561b72.png" width="1" /></div>
+
+<div align="center" style="display:block;" width="100%">
+<table align="center" width="100%">
+	<tbody>
+		<tr>
+			<td align="right" width="50%">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div id="removeLinkDummy1">&nbsp;</div>
+
+<div id="removeLinkDummy2">&nbsp;</div>
+
+<div id="removeLinkDummy3">&nbsp;</div>
+
+<div id="removeLinkDummy4">&nbsp;</div>
+
+<div id="removeLinkDummy5">&nbsp;</div>
+
+<div id="removeLinkDummy6">&nbsp;</div>
+
+<div align="left" id="showDisclaimerData" style="padding:3px" width="100%">&nbsp;</div>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
